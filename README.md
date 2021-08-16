@@ -101,4 +101,4 @@ If the missing data is Present in -
  * To Perform Dimensionality Reduction
  * Data Visualization
  
-![image](https://user-images.githubusercontent.com/78917605/129480995-413991f0-82c9-4acb-af8c-b644166cd872.png)
+![image](https://user-images.githubusercontent.com/78917605/129509038-c6d945e0-a4e1-4aa3-bdd2-f1591681151c.png)
